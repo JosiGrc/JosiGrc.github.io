@@ -1,0 +1,24 @@
+body{ 
+	background-color: pink;
+}
+/*	the background picture is going to be something that depics Dev work
+*/
+	h1{
+		color: blue;
+	}
+
+	ol {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	}
+	li a{
+	display: block;
+	width: 130px;
+	background-color: green;
+	text-decoration: none;
+	}
+	li a:hover{
+		background-color: hotpink;
+		color: yellow;
+	}

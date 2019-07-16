@@ -1,0 +1,39 @@
+h1{
+	background-color: orange <!--dont forget about the divs and shit-->
+}
+.para1{
+	text-align: center;
+	color:	gray;
+}
+h2{
+	text-align: right;
+	color: orange;
+}
+ol {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	}
+	li a{
+	display: block;
+	width: 130px;
+	background-color: green;
+	text-decoration: none;
+	}
+	li a:hover{
+		background-color: hotpink;
+		color: yellow;
+}
+<div>
+	<left>
+		<ol>
+			<li><a href="index.html"><p style="font-size:100%;">Go back to my home page</p></a></li>
+			<li><a href="aboutme.html"><p style="font-size:100%">About me</p></a></li>
+			<li><a href="project.html"><p style="font-size:100%">My Projects</p></a></li>
+		</ol>
+	</left>
+</div>
+
+.floatRight{
+	float: right;
+}
